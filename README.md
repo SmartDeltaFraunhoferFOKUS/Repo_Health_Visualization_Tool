@@ -20,6 +20,6 @@ The visualizations can provide valuable insights on how the project is going and
 
 While testing the utility of our visualizations and investigating the causes of bug spikes in vaadin/flow, we found that a graph combining commit frequency, average commit size, and bug issue counts over time provided valuable insights as can be seen below:
 
-![]()
+![Commit frequency, average commit size, and bug issue counts over time](https://raw.githubusercontent.com/SmartDeltaFraunhoferFOKUS/Repo_Health_Visualization_Tool/master/commit_freq__avg_commit_size__bug_issues.png)
 
 The figure above depicts a visualization showing commit frequency, average commit size, and bug issue counts over time for vaadin/flow. This graph highlights patterns and provides insights into bug spike causes.
